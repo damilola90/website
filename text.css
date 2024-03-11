@@ -1,0 +1,8 @@
+.bg{
+    background-image: url('https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_1290x726/dam/pnr/2022/Products/911-GT3-RS-Premiere/_BKOS6959_edit_V02_highres.jpeg/jcr:content/_BKOS6959_edit_V02_highres.jpeg');
+    height: 100vh;
+    letter-spacing: .5px;
+}
+.img{
+    width: 100px;
+}
